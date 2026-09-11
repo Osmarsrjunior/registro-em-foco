@@ -1,0 +1,168 @@
+{
+  "br_2022": {
+    "year": 2022,
+    "code": "BR",
+    "name": "Brasil",
+    "level": "country",
+    "region": "",
+    "estimated_births": 2574556.03,
+    "rate": 1.3111,
+    "health_underreporting": 0.49209,
+    "estimated_missing": 33755.004109,
+    "source_table": "1.1"
+  },
+  "br_2023": {
+    "year": 2023,
+    "code": "BR",
+    "name": "Brasil",
+    "level": "country",
+    "region": "",
+    "estimated_births": 2548631.19,
+    "rate": 1.0496,
+    "health_underreporting": 0.43436,
+    "estimated_missing": 26750.43297,
+    "source_table": "1.1"
+  },
+  "br_2024": {
+    "year": 2024,
+    "code": "BR",
+    "name": "Brasil",
+    "level": "country",
+    "region": "",
+    "estimated_births": 2398633.99,
+    "rate": 0.9548,
+    "health_underreporting": 0.38885,
+    "estimated_missing": 22902.157337,
+    "source_table": "1.1"
+  },
+  "change_pp": -0.35629999999999995,
+  "relative_change_pct": -27.175654030966356,
+  "highest_rates": [
+    {
+      "year": 2024,
+      "code": "RR",
+      "name": "Roraima",
+      "level": "state",
+      "region": "Norte",
+      "estimated_births": 12433.73,
+      "rate": 13.8634,
+      "health_underreporting": 2.73236,
+      "estimated_missing": 1723.737725,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "AP",
+      "name": "Amapá",
+      "level": "state",
+      "region": "Norte",
+      "estimated_births": 12516,
+      "rate": 5.8405,
+      "health_underreporting": 0.95876,
+      "estimated_missing": 730.99698,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "AM",
+      "name": "Amazonas",
+      "level": "state",
+      "region": "Norte",
+      "estimated_births": 66298.29,
+      "rate": 4.3987,
+      "health_underreporting": 0.58266,
+      "estimated_missing": 2916.262882,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "PI",
+      "name": "Piauí",
+      "level": "state",
+      "region": "Nordeste",
+      "estimated_births": 39778.74,
+      "rate": 3.9814,
+      "health_underreporting": 0.65547,
+      "estimated_missing": 1583.750754,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "SE",
+      "name": "Sergipe",
+      "level": "state",
+      "region": "Nordeste",
+      "estimated_births": 27540.22,
+      "rate": 3.0981,
+      "health_underreporting": 0.16057,
+      "estimated_missing": 853.223556,
+      "source_table": "1.1"
+    }
+  ],
+  "highest_volumes": [
+    {
+      "year": 2024,
+      "code": "PA",
+      "name": "Pará",
+      "level": "state",
+      "region": "Norte",
+      "estimated_births": 118673.84,
+      "rate": 2.8067,
+      "health_underreporting": 0.30827,
+      "estimated_missing": 3330.818667,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "AM",
+      "name": "Amazonas",
+      "level": "state",
+      "region": "Norte",
+      "estimated_births": 66298.29,
+      "rate": 4.3987,
+      "health_underreporting": 0.58266,
+      "estimated_missing": 2916.262882,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "MA",
+      "name": "Maranhão",
+      "level": "state",
+      "region": "Nordeste",
+      "estimated_births": 92888.78,
+      "rate": 1.9419,
+      "health_underreporting": 0.7372,
+      "estimated_missing": 1803.807219,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "RR",
+      "name": "Roraima",
+      "level": "state",
+      "region": "Norte",
+      "estimated_births": 12433.73,
+      "rate": 13.8634,
+      "health_underreporting": 2.73236,
+      "estimated_missing": 1723.737725,
+      "source_table": "1.1"
+    },
+    {
+      "year": 2024,
+      "code": "PI",
+      "name": "Piauí",
+      "level": "state",
+      "region": "Nordeste",
+      "estimated_births": 39778.74,
+      "rate": 3.9814,
+      "health_underreporting": 0.65547,
+      "estimated_missing": 1583.750754,
+      "source_table": "1.1"
+    }
+  ],
+  "top5_volume_share": 49.595228431383475,
+  "states_above_br": 12,
+  "municipalities": 5570,
+  "municipalities_missing": 3
+}

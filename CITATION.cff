@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cite o projeto e as fontes originais do IBGE ao reutilizar a análise."
+title: "Registro em Foco: sub-registro de nascimento e prioridades territoriais no Brasil"
+type: software
+version: 1.0.0
+date-released: 2026-09-11
+authors:
+  - name: "Osmarsrjunior"
+repository-code: "https://github.com/Osmarsrjunior/registro-em-foco"
+license: MIT
+keywords:
+  - registro civil
+  - políticas públicas
+  - dados abertos
+  - monitoramento

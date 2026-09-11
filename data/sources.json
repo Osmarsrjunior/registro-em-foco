@@ -1,0 +1,26 @@
+[
+  {
+    "year": 2022,
+    "url": "https://ftp.ibge.gov.br/Estatisticas_Vitais/Estimativas_sub_registro_nascimentos/2022/xlsx/01nascidosvivos_xlsx_20260610.zip",
+    "file": "data/raw/01nascidosvivos_2022.zip",
+    "sha256": "6fda48e44103d5010870b77af28fe5ed3f1a3295379215fbd5839d6c5bff7d26",
+    "retrieved": "2026-09-11",
+    "edition": "revisão 2026-06-10"
+  },
+  {
+    "year": 2023,
+    "url": "https://ftp.ibge.gov.br/Estatisticas_Vitais/Estimativas_sub_registro_nascimentos/2023/xlsx/01nascidosvivos_xlsx_20260610.zip",
+    "file": "data/raw/01nascidosvivos_2023.zip",
+    "sha256": "8cc2a7a8cef6ff38d95e908ae7d84db94aad771503c211f562f8eaff7a097e06",
+    "retrieved": "2026-09-11",
+    "edition": "revisão 2026-06-10"
+  },
+  {
+    "year": 2024,
+    "url": "https://ftp.ibge.gov.br/Estatisticas_Vitais/Estimativas_sub_registro_nascimentos/2024/xlsx/01nascidosvivos_xlsx.zip",
+    "file": "data/raw/01nascidosvivos_2024.zip",
+    "sha256": "904fa12c1fc820f0371b02152e0344d20c99dd0ac179386896c8b551a20e72e8",
+    "retrieved": "2026-09-11",
+    "edition": "edição 2024"
+  }
+]
