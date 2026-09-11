@@ -118,10 +118,10 @@ def main():
     write_csv(processed/'territories.csv',records)
     write_csv(processed/'municipalities_2024.csv',municipalities)
     write_csv(processed/'groups_2024.csv',groups)
-    manifest_path.write_text(json.dumps(sources,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    (processed/'summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    manifest_path.write_text(json.dumps(sources,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')
+    (processed/'summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')
     payload={'records':records,'groups':groups,'summary':summary,'sources':sources}
-    (ROOT/'dist/data.js').write_text('window.REGISTRO_DATA = '+json.dumps(payload,ensure_ascii=False)+';\n',encoding='utf-8')
+    (ROOT/'dist/data.js').write_text('window.REGISTRO_DATA = '+json.dumps(payload,ensure_ascii=False)+';\n',encoding='utf-8',newline='\n')
     for name in ['territories.csv','municipalities_2024.csv','groups_2024.csv']:
         (ROOT/'dist'/name).write_bytes((processed/name).read_bytes())
     print(json.dumps(summary,ensure_ascii=True,indent=2))
